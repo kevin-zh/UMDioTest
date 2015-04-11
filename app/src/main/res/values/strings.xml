@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UMDioTest</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="welcome">HELLO</string>
+
+    <string name="all_courses">http://api.umd.io/v0/courses</string>
+</resources>
