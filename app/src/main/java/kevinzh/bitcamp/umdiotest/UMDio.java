@@ -18,6 +18,7 @@ public class UMDio extends Activity {
 
         new DownloadWebpageTask(welcome).execute(getString(R.string.all_courses));
 
+        
     }
 
 
